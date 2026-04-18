@@ -1,5 +1,4 @@
 <header>
-  <img src="your-logo.png" class="logo-img" />
   <h1 class="logo-text">TIM-2 RACING</h1>
   <p class="subtitle">Driven to win</p>
 
